@@ -1,3 +1,6 @@
 [submodule "QualityEvaluation_AntiCheating_app"]
 	path = QualityEvaluation_AntiCheating_app
 	url = https://github.com/Duong123-art/QualityEvaluation_AntiCheating_app.git
+[submodule "QualityEvalution_AntiCheating_BE"]
+	path = QualityEvalution_AntiCheating_BE
+	url = https://github.com/levinhdu/QualityEvalution_AntiCheating_BE.git

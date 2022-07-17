@@ -7,3 +7,6 @@
 [submodule "QualityEvalution_AntiCheating_AI"]
 	path = QualityEvalution_AntiCheating_AI
 	url = https://github.com/leminhhuy132/QualityEvalution_AntiCheating_AI.git
+[submodule "QualityEvalution_BE"]
+	path = QualityEvalution_BE
+	url = https://github.com/truongvntran/QualityEvalution_BE.git
